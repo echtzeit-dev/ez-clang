@@ -7,3 +7,11 @@ Public previews: https://echtzeit.dev/ez-clang
 ## Run ez-clang on your own hardware
 
 A binary distribution of ez-clang will be published soon. Please check again in a few days.
+
+## [Release 0.0.5](release/0.0.5)
+
+Interface Documentation:
+* [RPC Interface spec](release/0.0.5/docs/rpc.md)
+* [Runtime spec](release/0.0.5/docs/runtime.md)
+
+**Disclaimer:** ez-clang is in a very experimental stage. Please consider any code and documentation a subject to change.

@@ -6,7 +6,9 @@ Public previews: https://echtzeit.dev/ez-clang
 
 ## Run ez-clang on your own hardware
 
-A binary distribution of ez-clang will be published soon. Please check again in a few days.
+Docker: https://hub.docker.com/r/echtzeit/ez-clang
+
+Artifacts: https://github.com/echtzeit-dev/ez-clang/releases/tag/v0.0.5
 
 ## [Release 0.0.5](release/0.0.5)
 
